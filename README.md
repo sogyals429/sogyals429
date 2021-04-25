@@ -3,9 +3,9 @@
 My name is Sogyal and I'm a DevOps Engineer at LittlePay
 
 #### 📫 How to reach me: 
-* 💼 [https://www.linkedin.com/in/sogyal-thundup-s-505a22bb/]
-* 🐦 [https://twitter.com/sogyalts429]
-* Website [https://sogyalsherpa.com]
+* 🐦 [Twitter](https://twitter.com/sogyalts429)
+* 💼 [Linkedin](https://www.linkedin.com/in/sogyal-thundup-s-505a22bb/)
+* [Portfolio](https://sogyalsherpa.com)
 
 <!--
 **sogyals429/sogyals429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
